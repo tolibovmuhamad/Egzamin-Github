@@ -1,7 +1,1 @@
 @import "tailwindcss";
-
-.maga1{
-     border: 1px solid;
-    border-image: linear-gradient( 90deg,#459CF3,#141414,#459CF3) 1;
-    border-radius: 20px;
-}
